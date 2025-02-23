@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /private/
+Allow: /
+
+Sitemap:https://www.internationalairporttransfers.com/sitemap.xml
+
+
+
